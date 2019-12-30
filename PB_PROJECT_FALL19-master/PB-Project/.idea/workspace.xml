@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6cfe55c1-c24e-464f-b4c8-d643f0fbe894" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/NA1_Assignment4$ssss.coverage" NAME="ssss Coverage Results" MODIFIED="1555958760083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NA1_Assignment4$ser.coverage" NAME="ser Coverage Results" MODIFIED="1553281841556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NA1_Assignment4$cccc.coverage" NAME="cccc Coverage Results" MODIFIED="1555958774588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NA1_Assignment4$Server1.coverage" NAME="Server1 Coverage Results" MODIFIED="1555965497627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NA1_Assignment4$Client2.coverage" NAME="Client2 Coverage Results" MODIFIED="1553282343478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NA1_Assignment4$hellooooooo.coverage" NAME="hellooooooo Coverage Results" MODIFIED="1555969696615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NA1_Assignment4$Client.coverage" NAME="Client Coverage Results" MODIFIED="1552872702954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NA1_Assignment4$cli.coverage" NAME="cli Coverage Results" MODIFIED="1553282016198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NA1_Assignment4$Client1.coverage" NAME="Client1 Coverage Results" MODIFIED="1553022961446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NA1_Assignment4$Server.coverage" NAME="Server Coverage Results" MODIFIED="1553023668672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PB Project 1/source/Tweetscollect.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="554">
+              <caret line="55" column="29" selection-start-line="55" selection-start-column="29" selection-end-line="55" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PB Project 1/source/ExtractHash.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-279">
+              <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>id</find>
+      <find>send</find>
+      <find>87</find>
+      <find>parse_tweets</find>
+      <find>twt_data</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Client.py" />
+        <option value="$PROJECT_DIR$/Server.py" />
+        <option value="$PROJECT_DIR$/hhh.csv" />
+        <option value="$PROJECT_DIR$/Client1.py" />
+        <option value="$PROJECT_DIR$/student.csv" />
+        <option value="$PROJECT_DIR$/ser.py" />
+        <option value="$PROJECT_DIR$/cli.py" />
+        <option value="$PROJECT_DIR$/Client2.py" />
+        <option value="$PROJECT_DIR$/Server1.py" />
+        <option value="$PROJECT_DIR$/ssss.py" />
+        <option value="$PROJECT_DIR$/cccc.py" />
+        <option value="$PROJECT_DIR$/hellooooooo.py" />
+        <option value="$PROJECT_DIR$/server274.py" />
+        <option value="$PROJECT_DIR$/client274.py" />
+        <option value="$PROJECT_DIR$/client274/client274.py" />
+        <option value="$PROJECT_DIR$/server274/server274.py" />
+        <option value="$PROJECT_DIR$/server274/server374.py" />
+        <option value="$PROJECT_DIR$/client274/client.py" />
+        <option value="$PROJECT_DIR$/client274/client374.py" />
+        <option value="$PROJECT_DIR$/server274/server474.py" />
+        <option value="$PROJECT_DIR$/client274/client474.py" />
+        <option value="$PROJECT_DIR$/client274/client55.py" />
+        <option value="$PROJECT_DIR$/server274/server55.py" />
+        <option value="$PROJECT_DIR$/pb1.py" />
+        <option value="$PROJECT_DIR$/../PB Project/TwitterProject_Phase1/Source/Tweetscollect.py" />
+        <option value="$PROJECT_DIR$/PB Project 1/source/Tweetscollect.py" />
+        <option value="$PROJECT_DIR$/PB Project 1/source/ExtractHash.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="5" />
+    <option name="width" value="1750" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PB-Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PB-Project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PB-Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PB-Project" type="462c0819:PsiDirectoryNode" />
+              <item name="PB Project 1" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Vamsi Draksharam\PycharmProjects\NA1 Assignment4" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.ExtractHash">
+    <configuration name="ExtractHash" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NA1 Assignment4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PB Project 1/source" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PB Project 1/source/ExtractHash.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Tweetscollect" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NA1 Assignment4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PB Project 1/source" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PB Project 1/source/Tweetscollect.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="client474" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NA1 Assignment4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/client274" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/client274/client474.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pb1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NA1 Assignment4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PB Project/TwitterProject_Phase1/Source" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PB Project/TwitterProject_Phase1/Source/Tweetscollect.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="server474" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NA1 Assignment4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/server274" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/server274/server474.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.ExtractHash" />
+      <item itemvalue="Python.Tweetscollect" />
+      <item itemvalue="Python.client474" />
+      <item itemvalue="Python.pb1" />
+      <item itemvalue="Python.server474" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ExtractHash" />
+        <item itemvalue="Python.Tweetscollect" />
+        <item itemvalue="Python.pb1" />
+        <item itemvalue="Python.client474" />
+        <item itemvalue="Python.server474" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6cfe55c1-c24e-464f-b4c8-d643f0fbe894" name="Default Changelist" comment="" />
+      <created>1552832030575</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552832030575</updated>
+      <workItem from="1552832032719" duration="17458000" />
+      <workItem from="1552880250744" duration="7053000" />
+      <workItem from="1553020796150" duration="770000" />
+      <workItem from="1553021593991" duration="8024000" />
+      <workItem from="1553039042885" duration="4988000" />
+      <workItem from="1553270948245" duration="2076000" />
+      <workItem from="1553276937593" duration="2037000" />
+      <workItem from="1553281507807" duration="1538000" />
+      <workItem from="1555876289889" duration="695000" />
+      <workItem from="1555898882022" duration="3078000" />
+      <workItem from="1555961979528" duration="620000" />
+      <workItem from="1555965010186" duration="456000" />
+      <workItem from="1555965490599" duration="355000" />
+      <workItem from="1555968619773" duration="947000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="50095000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24108322" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3281471" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23479491" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3281471" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.3295302" />
+      <window_info anchor="right" id="R Graphics" order="4" />
+      <window_info anchor="right" id="R Packages" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/hhh.csv" />
+    <entry file="file://$PROJECT_DIR$/Client.py" />
+    <entry file="file://$PROJECT_DIR$/Server.py" />
+    <entry file="file://$PROJECT_DIR$/Client1.py" />
+    <entry file="file://$PROJECT_DIR$/ser.py" />
+    <entry file="file://$PROJECT_DIR$/cli.py" />
+    <entry file="file://$PROJECT_DIR$/student.csv" />
+    <entry file="file://$PROJECT_DIR$/Client2.py" />
+    <entry file="file://$PROJECT_DIR$/Server1.py" />
+    <entry file="file://$PROJECT_DIR$/hellooooooo.py" />
+    <entry file="file://$PROJECT_DIR$/client274.py" />
+    <entry file="file://$PROJECT_DIR$/server274.py" />
+    <entry file="file://$PROJECT_DIR$/ssss.py" />
+    <entry file="file://$PROJECT_DIR$/cccc.py" />
+    <entry file="file://$PROJECT_DIR$/client274/client.py" />
+    <entry file="file://$PROJECT_DIR$/../NA! Assignment5/server/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client274/client274.py" />
+    <entry file="file://$PROJECT_DIR$/server274/server274.py" />
+    <entry file="file://$PROJECT_DIR$/server274/server374.py" />
+    <entry file="file://$PROJECT_DIR$/client274/client374.py" />
+    <entry file="file://$PROJECT_DIR$/client274/client474.py" />
+    <entry file="file://$PROJECT_DIR$/server274/server474.py" />
+    <entry file="file://$PROJECT_DIR$/client274/client55.py" />
+    <entry file="file://$PROJECT_DIR$/pb1.py" />
+    <entry file="file://$PROJECT_DIR$/server274/server55.py" />
+    <entry file="file://$PROJECT_DIR$/PB Project/TwitterProject_Phase1/Source/Hadoop log" />
+    <entry file="file://$PROJECT_DIR$/../PB Project/TwitterProject_Phase1/Source/Tweetscollect.py" />
+    <entry file="file://$PROJECT_DIR$/../PB Project2/TwitterProject_Phase1/Source/HashUrlExtract.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PB Project 1/source/Tweetscollect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="554">
+          <caret line="55" column="29" selection-start-line="55" selection-start-column="29" selection-end-line="55" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PB Project 1/source/ExtractHash.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-279">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
